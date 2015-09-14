@@ -1,0 +1,59 @@
+{
+  "msg": "ok",
+  "result": 0,
+  "root": {
+    "discountUnitList": [{
+      "cactNo": 0,
+      "couponAmount": 0,
+      "discountPara": 0,
+      "discountShowName": "",
+      "discountType": 2,
+      "moneyFull": 3900,
+      "moneyFullStr": "39.00",
+      "moneyUnit": "CNY",
+      "postagefree": true
+    }],
+    "fareType": 2,
+    "goodsNo": 324,
+    "limiVol": 1,
+    "limitVol": 1,
+    "name": "【示爱萌妹限时抢】没错 风靡全球的头上长草发夹来了",
+    "onShelf": true,
+    "pictures": ["http://imgcache6.wemartimg.cn/shop001201501095297/201509/101115/14/70259", "http://imgcache9.wemartimg.cn/shop001201501095297/201509/081034/08/68709", "http://imgcache3.wemartimg.cn/shop001201501095297/201509/081119/44/68794", "http://imgcache7.wemartimg.cn/shop001201501095297/201509/081146/45/68799", "http://imgcache6.wemartimg.cn/shop001201501095297/201509/081130/25/68797", "http://imgcache9.wemartimg.cn/shop001201501095297/201509/081112/21/68756", "http://imgcache1.wemartimg.cn/shop001201501095297/201509/081044/10/68712"],
+    "price": {
+      "feeName": "￥",
+      "feeType": "CNY",
+      "max": "0.00",
+      "min": "0.00",
+      "mktMax": "9.90",
+      "mktMin": "9.90"
+    },
+    "salesVolume": 44,
+    "shareData": {
+      "shareText": "听说百分之九十的人都会喜欢TA",
+      "shelfExt1": "",
+      "shelfExt2": "{\"shelfName\":\"\",\"shelfPicNoMargin\":false}",
+      "template": ""
+    },
+    "shopInfo": {
+      "logo": "http://imgcache2.wemartimg.cn/shop001201501095297/201501/141607/15/6092",
+      "name": "糗百货"
+    },
+    "showSales": true,
+    "showStocks": false,
+    "skuList": [{
+      "name": "款式",
+      "skus": [{
+        "id": "$5209",
+        "opt": "绿豆芽"
+      }, {
+        "id": "$5210",
+        "opt": "大叶子"
+      }, {
+        "id": "$5211",
+        "opt": "卷卷草"
+      }]
+    }],
+    "totalStocks": 106
+  }
+}
